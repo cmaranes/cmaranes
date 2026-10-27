@@ -79,6 +79,11 @@ Zaragoza, Spain
 <br>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2801](https://github.com/roboflow/supervision/pull/2801) in [roboflow/supervision](https://github.com/roboflow/supervision)
+2. 💪 Opened PR [#2801](https://github.com/roboflow/supervision/pull/2801) in [roboflow/supervision](https://github.com/roboflow/supervision)
+3. 🎉 Merged PR [#9](https://github.com/cmaranes/python-ply-preview/pull/9) in [cmaranes/python-ply-preview](https://github.com/cmaranes/python-ply-preview)
+4. 💪 Opened PR [#9](https://github.com/cmaranes/python-ply-preview/pull/9) in [cmaranes/python-ply-preview](https://github.com/cmaranes/python-ply-preview)
+5. 🎉 Merged PR [#6](https://github.com/cmaranes/python-ply-preview/pull/6) in [cmaranes/python-ply-preview](https://github.com/cmaranes/python-ply-preview)
 <!--END_SECTION:activity-->
 
 </details>
